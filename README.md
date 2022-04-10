@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maykonaraujo
 - 👀 I’m interested in Software Developed
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Laravel
 - 📫 How to reach me https://www.linkedin.com/in/maykonaraujo23/
 
 <!---
