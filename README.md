@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maykonaraujo
 - 👀 I’m interested in Software Developed
-- 🌱 PHP Especialist. Java Jr. Javascript
+- 🌱 Laravel | CodeIgniter | NODE JS
 - 📫 How to reach me https://www.linkedin.com/in/maykonaraujo23/
 
 <!---
