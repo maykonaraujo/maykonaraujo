@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maykonaraujo
 - 👀 I’m interested in Software Developed
-- 🌱 Laravel | CodeIgniter | NODE JS
+- 🌱 Laravel | CodeIgniter | NodeJs | SpringBoot | WebCrawler
 - 📫 How to reach me https://www.linkedin.com/in/maykonaraujo23/
 
 <!---
